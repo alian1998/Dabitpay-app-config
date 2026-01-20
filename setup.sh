@@ -1,10 +1,11 @@
 #!/bin/bash
 
 # কনফিগারেশন
-GITHUB_USER="SoftwareEngineerMehedi"
-REPO="myadmin"
+GITHUB_USER="alian1998"
+REPO="Dabitpay-app-config"
 APK_FILE="myadmin.apk"
 APK_URL="https://github.com/$GITHUB_USER/$REPO/raw/main/$APK_FILE"
+
 
 PKG="com.soft.debitpay"
 ADMIN="$PKG/$PKG.MyDeviceAdminReceiver"
